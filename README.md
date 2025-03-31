@@ -18,7 +18,7 @@ This is a personal portfolio website built using **React + Vite** and styled wit
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Raju-Munagala/Portfolio.git
    ```
 2. Navigate to the project folder:
    ```sh
